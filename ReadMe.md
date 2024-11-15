@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante Front-End<br>👯 Estou a procura de estágio<br>🌱 Estou aprendendo HTM, CSS, JAVASCRIPT<br>
+🔭 Sou estudante Front-End<br>🌱 Estou aprendendo HTM, CSS, JAVASCRIPT<br>
 
 
 ## 🌐 Socials:
